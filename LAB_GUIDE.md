@@ -835,7 +835,7 @@ bạn không có quyền ghi. Khi đó: fork repo trên GitHub, rồi trỏ `ori
 fork của bạn:
 
 ```bash
-git remote set-url origin https://github.com/<tên-github-của-bạn>/K4-L3-Day1-AI-LLM-Foundation.git
+git remote set-url origin https://github.com/HnivGnad/K4-L3-Day1-AI-LLM-Foundation.git
 git push -u origin main
 ```
 
